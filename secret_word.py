@@ -1,0 +1,1 @@
+APP_SECRET_KEY = "3269IFCYjtrydKlrOOgrj205"
